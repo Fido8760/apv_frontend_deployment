@@ -4,7 +4,7 @@ import RutaProtegida from './layout/RutaProtegida';
 
 import Login from './paginas/Login';
 import Registrar from './paginas/Registrar';
-import OlvidePasword from './paginas/OlvidePAsword';
+import OlvidePasword from './paginas/OlvidePasword';
 import ConfrimarCuenta from './paginas/ConfrimarCuenta';
 import NuevoPassword from './paginas/NuevoPassword';
 
